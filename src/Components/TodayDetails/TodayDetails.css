@@ -1,0 +1,19 @@
+.font-size-125{
+    font-size: 1.25rem;
+}
+.b-radius-25{
+    border-radius: 1.5rem;
+}
+.border-grey{
+    border: 1px solid lightslategrey;
+}
+.color-purple{
+    color: rgb(119, 104,229);
+    font-size: 30px;
+}
+.background-purple{
+    background:rgb(119, 104,229);
+}
+.background-light-blue{
+    background: rgb(223, 231 ,244);
+}

@@ -1,0 +1,19 @@
+.b-radius-25{
+    border-radius: 1.5rem;
+}
+.border-grey{
+    border: 1px solid lightslategrey;
+}
+.background-light-blue{
+    background: rgb(223, 231 ,244);
+}
+.border-left-grey{
+     border-left: 1px solid lightslategrey;
+}
+
+.background-light-blue:hover{
+    background: rgb(173, 181, 194);
+}
+.cursor-pointer{
+    cursor: pointer;
+}

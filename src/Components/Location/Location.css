@@ -1,0 +1,38 @@
+.b-radius-25{
+  border-radius: 2.5rem;
+}
+.location-back{
+  position: relative;
+  background-image: url(../../assets/location-back.jpg);
+  background-size: cover;
+}
+.padding-15-20-25-20{
+  padding: 15% 20% 25% 20%;
+}
+.pb-2rem{
+  padding-bottom: 10rem;
+}
+.location-text{
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 600;
+  text-shadow: 2px 2px 1px #414a3e
+}
+.background-dark-blue{
+  background: rgb(9 , 13 , 40);
+}
+.background-dark-blue-details{
+  background: rgb(24 , 28 , 58);
+}
+.background-dark-blue-max-min{
+  background: rgb(119 , 104 , 229);
+}
+.background-dark-purple{
+  background: rgb(33 , 38 , 78);
+}
+.background-dark-blue-max-min:hover{
+  background: rgb(24 , 28 , 58);
+}
+
+
+

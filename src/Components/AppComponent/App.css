@@ -1,0 +1,22 @@
+body{
+  background: rgb(227,232,237);
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem 0;
+}
+.main-class{
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 2.5rem;
+  border: 1px solid lightslategrey;
+  background: white;
+}
+.border-dark{
+  border: 1px solid  rgb(9 , 13 , 40);
+}
+.background-dark-blue{
+  background: rgb(9 , 13 , 40);
+}

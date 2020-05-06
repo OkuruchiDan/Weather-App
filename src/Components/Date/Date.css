@@ -1,0 +1,10 @@
+.date{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    text-shadow: 2px 2px 1px #414a3e
+}
